@@ -18,7 +18,7 @@ Website practice using HTML - CSS and BEM methodology
 Tecnologías utilizadas:
 
 - HTML 
-- CSS - GRID
+- CSS, FLEXBOX, GRID Y BEM
 
 ---
 
@@ -26,7 +26,7 @@ Tecnologías utilizadas:
 Descargar de archivos: 
 
 - git 
-- git clone https://github.com/Alterlapsus/PracticaCard.git
+- git clone https://github.com/Alterlapsus/TiendaVirtual.git
 
 ---
 
