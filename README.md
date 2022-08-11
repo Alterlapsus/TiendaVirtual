@@ -18,7 +18,7 @@ Website practice using HTML - CSS and BEM methodology
 Tecnologías utilizadas:
 
 - HTML 
-- CSS, FLEXBOX, GRID Y BEM
+- CSS, FLEXBOX, GRID AND BEM
 
 ---
 
