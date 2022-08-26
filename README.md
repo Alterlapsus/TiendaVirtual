@@ -1,7 +1,8 @@
 # TiendaVirtual
 Website practice using HTML - CSS and BEM methodology
 
----
+
+
 <a href="https://tiendavirtual96.netlify.app/">Ver WebSite</a>
 
 - Desktop
