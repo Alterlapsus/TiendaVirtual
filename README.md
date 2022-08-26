@@ -1,5 +1,6 @@
 # TiendaVirtual
-Website practice using HTML - CSS and BEM methodology
+
+- Website practice using HTML - CSS and BEM methodology
 
 
 
