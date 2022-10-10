@@ -20,7 +20,8 @@
 Tecnologías utilizadas:
 
 - HTML 
-- CSS, FLEXBOX, GRID AND BEM
+- CSS FLEXBOX, GRID
+- METODOLOGÍA BEM
 
 ---
 
